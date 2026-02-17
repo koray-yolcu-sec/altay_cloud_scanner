@@ -1,5 +1,19 @@
 # AltaySec Cloud Security Scanner
 
+<div align="center">
+
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![AWS](https://img.shields.io/badge/AWS-Read%20Only-orange.svg)](https://aws.amazon.com/)
+[![Used in AltaySec Atölye](https://img.shields.io/badge/Used%20in-AltaySec%20Atolye-b91c1c?style=flat-square)](https://atolye.altaysec.com.tr)
+
+
+</div>
+
+> 🤝 Bu proje, **AltaySec** topluluğu / Atölye çalışmaları kapsamında geliştirildi.
+
+
 AWS bulut ortamlarında güvenlik yapılandırma hatalarını (misconfiguration) tespit eden read-only güvenlik tarayıcısı.
 
 ## Özellikler
@@ -43,7 +57,7 @@ AWS bulut ortamlarında güvenlik yapılandırma hatalarını (misconfiguration)
 
 ```bash
 # GitHub'dan klonla
-git clone https://github.com/kkyolcu/altay-cloud-scanner.git
+https://github.com/koray-yolcu-sec/altay_cloud_scanner.git
 cd altay-cloud-scanner
 
 # Sanal ortam oluştur (önerilir)
@@ -160,7 +174,7 @@ MIT License
 
 Koray Yolcu (kkyolcu@gmail.com)
 
-## Teşekkür
+## Teşekkürler
 
 - AWS ve bulut güvenliği topluluğuna
 - Rich kütüphanesi geliştiricilerine
